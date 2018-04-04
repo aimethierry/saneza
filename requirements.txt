@@ -1,0 +1,4 @@
+Django==1.8.4
+djangorestframework==3.8.0
+gunicorn==19.7.1
+Markdown==2.6.11
